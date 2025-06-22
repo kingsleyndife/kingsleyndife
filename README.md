@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤵 Software Engineer with expertise in C++, Python, JavaScript, React, SQL and Vue.js<br>❤️‍🔥 Passionate about solving complex problems and building scalable solutions<br>👯 Open to collaborations and always eager to learn new technologies<br>🌱Enjoy working on back-end systems, front-end applications, and open-source projects<br>🔭 currently work on Machine lerning and data analysis using python
+🤵 Software Engineer with expertise in Python, JavaScript, SQL and Vue.js<br>❤️‍🔥 Passionate about solving complex problems and building scalable solutions<br>👯 Open to collaborations and always eager to learn new technologies<br>🌱Enjoy working on back-end systems, front-end applications, and open-source projects<br>🔭 currently work on Machine lerning and data analysis using python
 
 
 ## 🌐 Socials:
